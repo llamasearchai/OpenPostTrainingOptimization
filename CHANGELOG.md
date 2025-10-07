@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.1
+
+- README: Added project logo header.
+- Cleanup: Ignored local `.claude/` configs; removed local folder.
+- Housekeeping: Searched and ensured no Anthropic/Claude references remain.
+
 ## v1.1.0
 
 - Apple-Silicon (MLX/MPS) support across CLI features.

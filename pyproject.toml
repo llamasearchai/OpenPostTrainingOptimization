@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "openposttraining"
-version = "1.1.0"
+version = "1.1.1"
 description = "OpenPostTrainingOptimizations: Portable post-training optimization tools for CUDA, MPS, and MLX with AI agents integration"
 readme = "README.md"
 requires-python = ">=3.10"
