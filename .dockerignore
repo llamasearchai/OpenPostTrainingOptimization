@@ -1,0 +1,89 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Python cache
+__pycache__
+*.py[cod]
+*$py.class
+.pytest_cache
+.mypy_cache
+.ruff_cache
+
+# Virtual environments
+.venv
+venv
+ENV
+env
+
+# Build artifacts
+dist
+build
+*.egg-info
+.eggs
+
+# Testing
+.coverage
+.coverage.*
+coverage.xml
+htmlcov
+.tox
+.hypothesis
+
+# IDEs
+.idea
+.vscode
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+logs
+.logs
+
+# Temporary files
+tmp
+temp
+.cache
+
+# Data and outputs
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+outputs
+runs
+checkpoints
+
+# Documentation
+docs
+*.md
+!README.md
+
+# CI/CD
+.github
+
+# Development files
+Makefile
+justfile
+tox.ini
+.pre-commit-config.yaml
+
+# Node
+node_modules
+
+# Large model files
+models/*.pt
+models/*.pth
+models/*.bin
+models/*.safetensors
+*.gguf
+
