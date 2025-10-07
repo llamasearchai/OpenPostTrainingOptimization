@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="OpenPostTrainingOptimization.png" alt="OpenPostTrainingOptimization Logo" width="600" />
+</p>
+
 # OpenPostTrainingOptimizations
 
 Portable post-training optimization toolkit for large language models with comprehensive AI agents integration. Runs locally on Apple Silicon (MLX/MPS/CPU) and Linux/CUDA platforms.

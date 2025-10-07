@@ -136,3 +136,5 @@ pdm.lock
 docs/_build/
 docs/.doctrees/
 
+# Misc local configs
+.claude/
